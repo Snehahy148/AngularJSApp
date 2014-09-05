@@ -6,7 +6,7 @@ var app = angular.module( "artists", [
 						 'artistServices'	
 		
 ]);
-
+ 
 // Configure the routing. The $routeProvider will be automatically injected into 
 // the configurator.
 app.config(['$routeProvider',
